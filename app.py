@@ -22,8 +22,8 @@ st.divider()
 # ====================== LOAD DATA ======================
 @st.cache_data
 def load_data():
-    scorecard = pd.read_csv('../data/processed/leadership_scorecard.csv')
-    driver = pd.read_csv('../data/processed/driver_analysis.csv')
+    scorecard = pd.read_csv('leadership_scorecard.csv')
+    driver = pd.read_csv('driver_analysis.csv')
     return scorecard, driver
 
 scorecard, driver = load_data()
