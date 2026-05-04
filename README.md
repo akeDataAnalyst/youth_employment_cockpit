@@ -6,7 +6,7 @@
 
 This project is a comprehensive enterprise performance management and reporting platform designed to track, analyze, and provide strategic insights on youth employment programs across five African countries (Kenya, Ethiopia, Nigeria, Rwanda, and Ghana).
 
-It simulates the kind of decision-grade reporting system used by the Mastercard Foundation to monitor progress toward its Young Africa Works goal — enabling 30 million young Africans, especially young women, to access dignified and fulfilling work by 2030.
+It simulates the kind of decision-grade reporting system used by the Mastercard Foundation to monitor progress toward its Young Africa Works goal - enabling 30 million young Africans, especially young women, to access dignified and fulfilling work by 2030.
 
 ---
 
