@@ -47,7 +47,7 @@ I designed and built an end-to-end **enterprise reporting solution** that includ
 
 - Scale Green Jobs and Digital Skills programs in high-performing countries (Nigeria & Kenya).
 - Strengthen post-placement support mechanisms in Agribusiness to improve 6-month retention.
-- Maintain strong gender lens — current female participation rates (66–70%) are solid but should be sustained.
+- Maintain strong gender lens - current female participation rates (66–70%) are solid but should be sustained.
 
 ---
 
