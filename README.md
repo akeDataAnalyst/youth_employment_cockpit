@@ -1,4 +1,5 @@
 # Pan-African Youth Employment Cockpit
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://m8mvd6owjcsaqtb65gonfb.streamlit.app/)
 
 ---
 
